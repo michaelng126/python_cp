@@ -19,5 +19,11 @@ Furthermore - any comments/corrections are most welcome!
 
 Finally, my sincere thanks to my friend who has provided much help (and encouragement) along the way, to another also, and to the Codeforces and Atcoder platforms for their fantastic teams and contribution to the community.
 
+## Structure ##
+Current algos:
+- DSU (Disjoint Set Union) (aka Union Find)
+tbc
+
 All the best,
+
 Michael
