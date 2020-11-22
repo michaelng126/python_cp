@@ -1,6 +1,6 @@
 # python_cp - Competitive Programming Library for Python
 
-__TLDR:__ Competitive programming library for Python, in development.
+__TLDR: Competitive programming library for Python, in development.__
 
 I've recently started learning CP - competitive programming. It's great for:
 1. improving implementation speed __'from mind to code'__
