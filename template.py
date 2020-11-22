@@ -2,19 +2,28 @@
 import os
 import sys
 from io import BytesIO, IOBase
- 
- 
+
+
 def main():
-
-
-
+    # for _ in range(ii()): # codeforces testcases
+    pass
+    
 
     
 
 
+# shorthands
+
+def mpin(): return map(int, input().split())
+def lmpin(): return list(mpin())
+def ii(): return int(input())
+def gridi(h,w): return [lmpin() for i in range(h)]
+
+def zero1(h): return [0 for i in range(h)]
+def zero2(h,w): return [[0 for j in range(w)] for i in range(h)]
+
 
 # region fastio
- 
 BUFSIZE = 8192
 
 class FastIO(IOBase):
